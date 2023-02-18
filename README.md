@@ -6,7 +6,7 @@
 * [1. Intro](#)
 * [2. Qué construi](#)
 * [3. Objetivo del proyecto](#)
-**
+
 
 ## 1. Intro
 
